@@ -1,5 +1,10 @@
 # REPOSITORIO EN CONSTRUCCION 👋
 
+
+	
+**texto en negrita**
+__texto en negrita__
+
 <!--
 **David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
