@@ -3,7 +3,8 @@
 **¿Que tal?**
 __Mi nombre es David Ortiz__
 
-![Alt]([/ruta/imagen.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189c896a-67cc-48d7-abb9-8164b0882b4f/d74defx-1abdcd34-52ec-406f-b8b4-8d96358ec6f7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OWM4OTZhLTY3Y2MtNDhkNy1hYmI5LTgxNjRiMDg4MmI0ZlwvZDc0ZGVmeC0xYWJkY2QzNC01MmVjLTQwNmYtYjhiNC04ZDk2MzU4ZWM2ZjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ti4JHedFn3lf7Go6yOmmWMqLcd_IY11-d6weNrSWULc)https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189c896a-67cc-48d7-abb9-8164b0882b4f/d74defx-1abdcd34-52ec-406f-b8b4-8d96358ec6f7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OWM4OTZhLTY3Y2MtNDhkNy1hYmI5LTgxNjRiMDg4MmI0ZlwvZDc0ZGVmeC0xYWJkY2QzNC01MmVjLTQwNmYtYjhiNC04ZDk2MzU4ZWM2ZjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ti4JHedFn3lf7Go6yOmmWMqLcd_IY11-d6weNrSWULc)
+![image](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/305ed5aa-7d39-46af-b106-5e09fe5452cc)
+
 
 <!--
 **David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
