@@ -3,8 +3,12 @@
 **¿Que tal?**
 __Mi nombre es David Ortiz__
 
+	
+*A mi me gusta jugar videojuegos*
+_y mis en mis tiempos libres ver peliculas_
+
 ![image](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/305ed5aa-7d39-46af-b106-5e09fe5452cc)
-![image](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/fe6a386a-6933-4f34-8818-11e7d79f81aa)
+
 
 
 
