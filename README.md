@@ -1,7 +1,7 @@
 # HOLA, BIENVENIDO A MI REPOSITORIO 👋
 	
-**Me presento mi nombre es David Ortiz**
-__texto en negrita__
+**texto en negrita**
+__Mi nombre es David Ortiz__
 
 ![Alt]([/ruta/imagen.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dironman%2Bpng&psig=AOvVaw0hfrrxDcK-xloGsycPgf1a&ust=1694642841961000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi939aKpoEDFQAAAAAdAAAAABAE))
 <!--
