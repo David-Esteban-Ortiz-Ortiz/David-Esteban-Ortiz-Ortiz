@@ -2,7 +2,7 @@
 Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos
 
 
-# 💻 Tech Stack:
+# 💻 Soy novato en:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=David-Esteban-Ortiz-Ortiz&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
