@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre yo:
 Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos
 
 
