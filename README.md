@@ -1,7 +1,11 @@
 # 💫 Sobre yo:
-Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos
+Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos, ademas soy un gran fan de Iron Man![580b57fbd9996e24bc43c052](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/c719dc51-c4e8-4275-b298-f720f29fc779) 
+**Una de mis peliculas favoritas es Avengers end game**
+![avengers_endgame__transparent_background_by_gasa979_dd5hj22-pre](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/c74396eb-7659-4fa2-896d-5b6999752f68)
+
+
 	
-![png-transparent-iron-man-s-armor-edwin-jarvis-thor-captain-america-iron-man](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/13386039-d3d4-4fb0-a2b0-9c27e158ad3d)
+
 
 
 
