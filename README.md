@@ -1,13 +1,10 @@
 # 💫 Sobre yo:
-Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos, ademas soy un gran fan de Iron Man![580b57fbd9996e24bc43c052](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/c719dc51-c4e8-4275-b298-f720f29fc779) 
+Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos, ademas soy un gran fan de Iron Man
+![Iron-Man-Endgame-PNG](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/1b88b919-3391-4645-b345-34de59e500c8)
 **Una de mis peliculas favoritas es Avengers end game**
-![avengers_endgame__transparent_background_by_gasa979_dd5hj22-pre](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/c74396eb-7659-4fa2-896d-5b6999752f68)
+![avengers__endgame__2019__logo_png__1_by_mintmovi3_dctx3rp-fullview](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/77ffce77-f04b-48cf-8b60-c945355ae34b)
 
-
-	
-
-
-
+Actualmente estudio en la universidad Mariana y estoy cursando el segundo semestre.	
 
 # 💻 Soy novato en:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
