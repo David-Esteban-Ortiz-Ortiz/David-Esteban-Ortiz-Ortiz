@@ -1,8 +1,9 @@
 # 💫 Sobre yo:
 Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos
 	
+![png-transparent-iron-man-s-armor-edwin-jarvis-thor-captain-america-iron-man](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/13386039-d3d4-4fb0-a2b0-9c27e158ad3d)
 
-![]([https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko](https://w7.pngwing.com/pngs/518/82/png-transparent-iron-man-marvel-comics-marvel-iron-man-marvel-comics.png))
+
 
 # 💻 Soy novato en:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
