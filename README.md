@@ -1,9 +1,3 @@
-# 💫 Sobre yo:
-Me gusta hacer ejercicio<br>Me gusta ver películas y jugar videojuegos, ademas soy un gran fan de Iron Man
-![Iron-Man-Endgame-PNG](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/1b88b919-3391-4645-b345-34de59e500c8)
-**Una de mis peliculas favoritas es Avengers end game**
-![avengers__endgame__2019__logo_png__1_by_mintmovi3_dctx3rp-fullview](https://github.com/David-Esteban-Ortiz-Ortiz/David-Esteban-Ortiz-Ortiz/assets/144852666/77ffce77-f04b-48cf-8b60-c945355ae34b)
-
 Actualmente estudio en la universidad Mariana y estoy cursando el segundo semestre.	
 
 # 💻 Soy novato en:
